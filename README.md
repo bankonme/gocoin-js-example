@@ -10,7 +10,7 @@ Example of gocoin-js in use
 You will need
 
 ### A)
-  * An Access token or API key with scope `"user_read invoice_read_write"` [Getting and API Key](http://help.gocoin.com/kb/api-authorization/api-keys-from-the-gocoin-dashboard)
+  * An Access token or API key with scope `"user_read invoice_read_write"` [Getting an API Key](http://help.gocoin.com/kb/api-authorization/api-keys-from-the-gocoin-dashboard)
 
 
 ### B) 
