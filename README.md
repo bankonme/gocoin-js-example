@@ -11,7 +11,8 @@ You will need
 
 ### A)
   * An Access token or API key with scope `"user_read invoice_read_write"` [Getting and API Key](http://help.gocoin.com/kb/api-authorization/api-keys-from-the-gocoin-dashboard)
-<br>
+
+
 ### B) 
   * An GoCoin application id, secret, and redirect_uri. More information on getting an access token using OAuth2.0 is [here](http://help.gocoin.com/kb/api-authorization/obtaining-an-access-token)
 
