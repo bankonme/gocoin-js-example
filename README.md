@@ -3,7 +3,11 @@ gocoin-js-example
 
 Example of gocoin-js in use
 
-You need
+1. Clone this repository
+2. `$ npm install` - This installs gocoin-js as a dependency. 
+3. ...
+
+You will need
 
 A)
   * An Access token or API key with scope `"user_read invoice_read_write"` [Getting and API Key](http://help.gocoin.com/kb/api-authorization/api-keys-from-the-gocoin-dashboard)
@@ -22,5 +26,5 @@ $ foreman start
 If you do not have foreman installed, you can add the values to the commented out fields in src/example.coffee
 
 ```
-npm start
+$ npm start
 ```
