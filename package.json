@@ -1,0 +1,41 @@
+{
+  "description": "Examples to go along with GoCoin-JS",
+  "version": "0.1.0",
+  "name": "gocoin-js-example",
+  "author": {
+    "name": "GoCoin"
+  },
+  "contributors": [
+    {
+      "name": "Kevin Beauregard",
+      "email": "kevin@gocoin.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "Apache License version 2.0",
+      "url": "https://github.com/GoCoin/gocoin-js-example/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "http://www.gocoin.com",
+  "dependencies": {
+    "gocoin": "0.3.16"
+  },
+  "devDependencies": {
+    "coffee-script": "1.3.3",
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/GoCoin/gocoin-js-example/issues",
+    "email": "kevin@gocoin.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoCoin/gocoin-js-example.git"
+  },
+  "scripts": {
+    "start": "coffee src/example.coffee"
+  }
+}
